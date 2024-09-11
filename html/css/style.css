@@ -1,0 +1,79 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: #757171;
+    line-height: 1.6;
+    background-image:url('/clouds\ img.jpg');
+    background-size: cover;
+}
+img{
+    width: 100%;
+}
+header {
+    background: #2a9d8f;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+}
+header a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+.hero {
+    background: url('hero-bg.jpg') no-repeat center center/cover;
+    color: #fff;
+    text-align: center;
+    padding: 5rem 1rem;
+    
+}
+
+
+.hero p {
+    font-size: 1.25rem;
+}
+.cta-buttons a {
+    display: inline-block;
+    background: #1c5e30;
+    color: #1f1d1d;
+    padding: 1rem 2rem;
+    margin: 0.5rem;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.features, .how-it-works, .testimonials, .pricing, .call-to-action {
+    padding: 2rem 1rem;
+}
+.features h2, .how-it-works h2, .testimonials h2, .pricing h2, .call-to-action h2 {
+    text-align: center;
+    color: #5a5c5c;
+}
+.features .feature, .testimonials .testimonial, .pricing .plan {
+    text-align: center;
+    margin: 1rem 0;
+}
+.footer {
+    background: #3e42446c;
+    color: #0d3a13;
+    padding: 1rem;
+    text-align: center;
+}
+.footer a {
+    color: #0f4e22;
+    text-decoration: none;
+    margin: 0 0.5rem;
+}
+.footer .social-media a {
+    margin: 0 0.5rem;
+}
+.how-it-works{
+    text-align: center;
+}
+.call-to-action{
+    text-align: center;
+}
+h1{
+    color:rgb(42, 155, 66);
+    font-size: 80px;
+}
